@@ -1,18 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PokeMon api for getting the different pokemons
+This project will let the user to select the pokemon or search for any pokemons and will take them to the stat graph of the pokemon.
 
-## Getting Started
+# Tech stack
 
-First, run the development server:
+Nextjs
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+React
+
+Tailwind
+
+Styled component
+
+Testing library
+
+Jest
+
+shadowcn for ui 
+
+ # Installation
+
+ `npm i`
+ 
+ `npm run dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
