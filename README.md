@@ -7,6 +7,8 @@ Nextjs
 
 React
 
+Apex chart
+
 Tailwind
 
 Styled component
