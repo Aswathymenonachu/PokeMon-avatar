@@ -15,7 +15,7 @@ const PokemonCard = ({ name }: PokemonCardProps) => {
       rel="noopener noreferrer"
     >
       <h2 className=" text-2xl font-semibold">
-        {name.charAt(0).toUpperCase() + name.slice(1)}
+        {name?.charAt(0).toUpperCase() + name?.slice(1)}
       </h2>
     </Link>
   );
